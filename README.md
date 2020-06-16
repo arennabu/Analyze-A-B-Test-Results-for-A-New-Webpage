@@ -22,7 +22,7 @@ To sum up, we do not have enough evidence to reject the null hypothesis, and the
 
 ### Contents
 
-Part 1:Probability
-Part 2:A/B test
-Part 3:Logistic Regression
+- Part 1:Probability
+- Part 2:A/B test
+- Part 3:Logistic Regression
 
